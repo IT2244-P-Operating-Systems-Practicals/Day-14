@@ -10,7 +10,7 @@ return 0;
 }
 
 output:-
-[2021ict119@fedora ~]$ ./fork1
+[2021ict111@fedora ~]$ ./fork1
 
 Hello World
 
